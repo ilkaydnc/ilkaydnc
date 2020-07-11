@@ -9,6 +9,7 @@
 * Vue
 * Typescript
 * GraphQL & Apollo Client
+* ESLint, Prettier, StyleLint, Storybook and similar technologies in development
 
 ### Backend Technologies I use
 * Node.js
