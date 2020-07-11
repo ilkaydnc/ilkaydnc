@@ -1,9 +1,9 @@
 ## Hey there 👋
  I'm **İlkay Dinç**. I have been interested in programming for four years, but I spent the last two years with web development. I still work and keep learning in this direction right now. Also, I am studying computer engineering at Mersin University.
 
-Email: [ilkaydinc1@gmail.com](mailto:ilkaydinc1@gmail.com)
+Email: [ilkaydinc1@gmail.com](mailto:ilkaydinc1@gmail.com){:target="_blank"}
 <br />
-Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
+Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/){:target="_blank"}
 
 ### Frontend Technologies I use
 * HTML & CSS
