@@ -23,3 +23,6 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 * GraphQL
 * MongoDB
 
+### What I'm Currently Learning
+* BEM Methodology
+* Unit Testing
