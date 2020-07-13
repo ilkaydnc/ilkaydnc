@@ -23,6 +23,6 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 * MongoDB
 
 ### What I'm Currently Learning
-* Sass & Scss
+* Sass
 * BEM Methodology
 * Unit Testing
