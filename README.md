@@ -8,7 +8,6 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 ### Frontend Technologies I use
 * HTML & CSS
 * JavaScript
-* Sass & Scss
 * React, Redux, React Hooks, Context API
 * Vue
 * Typescript
@@ -24,5 +23,6 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 * MongoDB
 
 ### What I'm Currently Learning
+* Sass & Scss
 * BEM Methodology
 * Unit Testing
