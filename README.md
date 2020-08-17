@@ -8,7 +8,7 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 ### Frontend Technologies I use
 * HTML & CSS
 * JavaScript
-* React, Redux
+* React, React Hooks, Redux, Context API
 * Vue
 * Typescript
 * GraphQL & Apollo Client
@@ -23,7 +23,5 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 * MongoDB
 
 ### What I'm Currently Learning
-* React Hooks, Context API
 * Sass
-* BEM Methodology
 * Unit Testing
