@@ -23,5 +23,6 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 * MongoDB
 
 ### What I'm Currently Learning
+* Rust
 * Unit Testing
 * Docker
