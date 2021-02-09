@@ -6,12 +6,12 @@ Email: [ilkaydinc1@gmail.com](mailto:ilkaydinc1@gmail.com)
 Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 
 ### Frontend Technologies I use
-* HTML & CSS
+* HTML, CSS, Sass 
 * JavaScript
-* React, React Hooks, Redux, Context API
-* Vue
+* React, Next.js
+* Vue, Vuex
 * Typescript
-* GraphQL & Apollo Client
+* GraphQL
 * ESLint, Prettier, StyleLint, Storybook and similar technologies in development
 
 ### Backend Technologies I use
