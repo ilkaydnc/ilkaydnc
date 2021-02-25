@@ -8,7 +8,7 @@ Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 ### Frontend Technologies I use
 * HTML, CSS, Sass 
 * JavaScript
-* React, Next.js, Hooks, Redux, MobX
+* React, Next.js, Hooks, Redux
 * Vue, Vuex
 * Typescript
 * GraphQL
