@@ -7,11 +7,11 @@
 > <br />
 > Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 
-### Frontend Stack: 
+#### Frontend Stack: 
 HTML, CSS, Sass, Styled-Components, JavaScript, React, Next.js, Hooks, Redux, Vue, Vuex, Typescript, GraphQL, ESLint, Prettier, StyleLint, and Storybook.
 
-### Backend Stack: 
+#### Backend Stack: 
 Node.js, Express.js, NestJS, Typescript, GraphQL, MongoDB
 
-### What I'm Currently Learning
+#### What I'm Currently Learning
 Rust, Unit Testing, Docker
