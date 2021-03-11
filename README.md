@@ -3,7 +3,7 @@
  
 > Website: [ilkay.dev](https://ilkay.dev)
 > <br />
-> Email: [ilkaydinc1@gmail.com](mailto:ilkaydinc1@gmail.com)
+> Email: [hi@ilkay.dev](mailto:hi@ilkay.dev)
 > <br />
 > Linkedin: [@ilkaydnc](https://www.linkedin.com/in/ilkaydnc/)
 
